@@ -34,7 +34,6 @@ public class GuessNumber {
             }  else {
                 System.out.println("You didn't guess(");
                 System.out.println("My number was " + randInt);
-                System.out.println("");
                 break;
             }
         }
