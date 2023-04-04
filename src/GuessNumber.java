@@ -1,6 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 public class GuessNumber {
+    //  ghdfjg
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter number of attempts:");
@@ -33,6 +34,7 @@ public class GuessNumber {
             }  else {
                 System.out.println("You didn't guess(");
                 System.out.println("My number was " + randInt);
+                System.out.println("");
                 break;
             }
         }
