@@ -10,6 +10,7 @@ public class Main {
             sb.insert(0, "ABC");
         }
         System.out.println((System.currentTimeMillis() - startTime));
+        System.out.println(" ");
     }
 }
 // /*   public static void main(String[] args) {
